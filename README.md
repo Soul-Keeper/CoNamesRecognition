@@ -1,2 +1,2 @@
-# CoNamesRecognition
+# Company Names Recognition
  

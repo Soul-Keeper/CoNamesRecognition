@@ -1,5 +1,5 @@
 import re
-#import cld3
+import cld3
 from camel_tools.utils.charmap import CharMapper
 from cleanco import basename
 from transliterate import translit
